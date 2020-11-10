@@ -4,7 +4,7 @@
 
 <p>My name is Arantxa and I'm currently studying to be FrontEnd Developer at Adalab Digital.</p>
 
-![Imgur](https://giphy.com/gifs/fAnzw6YK33jMwzp5wp/html5)
+<div><a href="https://giphy.com/gifs/fAnzw6YK33jMwzp5wp/html5"></a>
 
 - 🌱 I’m currently learning
 <ul>
