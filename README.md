@@ -6,7 +6,8 @@
 
 <div><a href="https://giphy.com/gifs/fAnzw6YK33jMwzp5wp/html5"></a>
 
-- 🌱 I’m currently learning
+🌱 I’m currently learning
+
 <ul>
   <li>HTML, HTML5</li>
   <li>CSS, CSS Flex, CSS Grid, Sass</li>
@@ -17,9 +18,10 @@
   <li>Object oriented programming</li>
 </ul>
 
-- 📫 How to reach me:
+📫 How to reach me:
+
 <ul>
     <li><a href="https://github.com/ArantxaDR/ArantxaDR" target="_blank">ArantxaDR</a></li>
-    <li><a href=" https://www.linkedin.com/in/arantxadelgadoruiz" target="_blank">Arantxa Delgado</a></li>
+    <li><a href=" https://www.linkedin.com/in/arantxadelgadoruiz" target="_blank">arantxadelgadoruiz</a></li>
     <li>arantxaderuiz@gmail.com</li>
 </ul>
