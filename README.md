@@ -1,20 +1,25 @@
 ### Hi there 👋
 
-After years in a job that did not let me grow I have found a new ✨illusion✨ in programming.
+<p>After years in a job that did not let me grow I have found a new ✨illusion✨ in programming.</p>
 
-My name is Arantxa and I'm currently studying to be FrontEnd Developer at Adalab Digital.
+<p>My name is Arantxa and I'm currently studying to be FrontEnd Developer at Adalab Digital.</p>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+![Imgur](https://giphy.com/gifs/fAnzw6YK33jMwzp5wp/html5)
+
+- 🌱 I’m currently learning
+<ul>
+  <li>HTML, HTML5</li>
+  <li>CSS, CSS Flex, CSS Grid, Sass</li>
+  <li>Responsive web design principles</li>
+  <li>Basic JavaScript, ES6</li>
+  <li>Regular expressions</li>
+  <li>Basic data structures</li>
+  <li>Object oriented programming</li>
+</ul>
+
 - 📫 How to reach me:
-
-        * https://github.com/ArantxaDR/ArantxaDR
-
-        * https://www.linkedin.com/in/arantxadelgadoruiz
-
-        * arantxaderuiz@gmail.com
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<ul>
+    <li><a href="https://github.com/ArantxaDR/ArantxaDR" target="_blank">ArantxaDR</a></li>
+    <li><a href=" https://www.linkedin.com/in/arantxadelgadoruiz" target="_blank">Arantxa Delgado</a></li>
+    <li>arantxaderuiz@gmail.com</li>
+</ul>
