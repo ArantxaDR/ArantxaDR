@@ -6,7 +6,7 @@
 
 <p>My name is Arantxa and I'm currently studying to be FrontEnd Developer at Adalab Digital.</p>
 
-<div style="text-align:center"><img src="./imgs/noun_software_engenieer.png" alt="icon" style="width:100px" ></div>
+<!-- ![imgur] <img src="./imgs/noun_software_engenieer.png" alt="icon" style="width:100px" > -->
 
 ## 🌱 I’m currently learning
 
@@ -23,6 +23,6 @@
 ## 📫 How to reach me:
 
 <ul>
-    <li><a href=" https://www.linkedin.com/in/arantxadelgadoruiz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a></li>
+    <!-- <li><a href=" https://www.linkedin.com/in/arantxadelgadoruiz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a></li> -->
     <li><a href="mailto:arantxaderuiz@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23694680?logo=gmail&logoColor=white"></a></li>
 </ul>
