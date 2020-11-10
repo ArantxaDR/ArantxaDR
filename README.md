@@ -1,10 +1,12 @@
+<div style="text-align:center"><img src="./imgs/readme-back.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div>
+
 ### Hi there 👋
 
 <p>After years in a job that did not let me grow I have found a new ✨illusion✨ in programming.</p>
 
 <p>My name is Arantxa and I'm currently studying to be FrontEnd Developer at Adalab Digital.</p>
 
-<p><a href="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif">via GIPHY</a></p>
+<div style="text-align:center"><img src="./imgs/noun_software engenieer.png" alt="icon"></div>
 
 🌱 I’m currently learning
 
