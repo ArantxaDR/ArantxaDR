@@ -22,7 +22,6 @@
 
 ## 📫 How to reach me:
 
-<ul>
-    <!-- <li><a href=" https://www.linkedin.com/in/arantxadelgadoruiz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white"></a></li> -->
-    <li><a href="mailto:arantxaderuiz@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23694680?logo=gmail&logoColor=white"></a></li>
-</ul>
+
+ - https://www.linkedin.com/in/arantxadelgadoruiz/
+ - arantxaderuiz@gmail.com
