@@ -12,12 +12,12 @@
 
 <ul>
   <li>HTML, HTML5 <img width="50px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></li>
-  <li>CSS, CSS Flex, CSS Grid, Sass</li>
+  <li>CSS, CSS Flex, CSS Grid, Sass <img width="50px" src="<img width="50px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">"></li>
   <li>Responsive web design principles</li>
-  <li>Basic JavaScript, ES6</li>
+  <li>Basic JavaScript, ES6<img width="50px" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></li>
   <li>Basic data structures</li>
   <li>Object oriented programming</li>
-  <li>React, React router</li>
+  <li>React, React router<img width="50px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></li>
 </ul>
 
 ## 📫 How to reach me:
