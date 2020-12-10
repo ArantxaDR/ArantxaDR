@@ -4,20 +4,20 @@
 
 <p>After years in a job that did not let me grow I have found a new ✨illusion✨ in programming.</p>
 
-<p>My name is Arantxa and I'm currently studying to be FrontEnd Developer at Adalab Digital.</p>
+<p>My name is Arantxa and I'm currently curently searching for my frist job as a front end developer.</p>
 
-<!-- ![imgur] <img src="./imgs/noun_software_engenieer.png" alt="icon" style="width:100px" > -->
+ <img src="./imgs/noun_software_engenieer.png" alt="icon" style="width:100px" >
 
-## 🌱 I’m currently learning
+## 🌱 Tools
 
 <ul>
   <li>HTML, HTML5</li>
   <li>CSS, CSS Flex, CSS Grid, Sass</li>
   <li>Responsive web design principles</li>
   <li>Basic JavaScript, ES6</li>
-  <li>Regular expressions</li>
   <li>Basic data structures</li>
   <li>Object oriented programming</li>
+  <li>React, React router</li>
 </ul>
 
 ## 📫 How to reach me:
