@@ -6,12 +6,12 @@
 
 <p>My name is Arantxa and I'm currently curently searching for my *frist job* as a front end developer.</p>
 
-[!Woman-icon](./imgs/noun_software_engineer.png)
+![Woman-icon](./imgs/noun_software_engineer.png)
 
 ## 🌱 Tools
 
 <ul>
-  <li>HTML, HTML5</li>
+  <li>HTML, HTML5 <img width="50px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></li>
   <li>CSS, CSS Flex, CSS Grid, Sass</li>
   <li>Responsive web design principles</li>
   <li>Basic JavaScript, ES6</li>
