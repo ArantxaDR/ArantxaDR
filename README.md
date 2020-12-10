@@ -25,4 +25,4 @@
 
 [![Github](./imgs/femalecodertocat.png)](https://github.com/ArantxaDR)
 [![Linkedin](./imgs/linkedin.png)](https://www.linkedin.com/in/arantxadelgadoruiz/)
-[![Gmail](./imgs/gmail.png = 50x50)](mailto:arantxaderuiz@gmail.com)
+[![Gmail](./imgs/gmail.png)](mailto:arantxaderuiz@gmail.com)
