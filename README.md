@@ -8,19 +8,21 @@
 
 ![Woman-icon](./imgs/noun_software_engineer.png)
 
-## 🌱 Tools
+## 🌱 Tools and languages
 
-<ul>
-  <li>HTML, HTML5 <img width="50px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></li>
-  <li>CSS, CSS Flex, CSS Grid, Sass <img width="50px" src="<img width="50px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">"></li>
-  <li>Responsive web design principles</li>
-  <li>Basic JavaScript, ES6<img width="50px" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></li>
-  <li>Basic data structures</li>
-  <li>Object oriented programming</li>
-  <li>React, React router<img width="50px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></li>
-</ul>
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
+![Sass](https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg)
+![HTML5](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)
+![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
+![Zoom](https://www.vectorlogo.zone/logos/zoomus/zoomus-ar21.svg)
+![Slack](https://www.vectorlogo.zone/logos/slack/slack-ar21.svg)
+![Javascript](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg)
+![Trello](https://www.vectorlogo.zone/logos/trello/trello-ar21.svg)
+![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
+![Bookstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg)
 
 ## 📫 How to reach me:
 
-- https://www.linkedin.com/in/arantxadelgadoruiz/
-- arantxaderuiz@gmail.com
+[![Github](./imgs/femalecodertocat.png)](https://github.com/ArantxaDR)
+[![Linkedin](./imgs/linkedin.png)](https://www.linkedin.com/in/arantxadelgadoruiz/)
+[![Gmail](./imgs/gmail.png)](mailto:arantxaderuiz@gmail.com)
