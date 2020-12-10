@@ -23,6 +23,8 @@
 
 ## 📫 How to reach me:
 
+<div style= "width:50px; heigth:50px">
 [![Github](./imgs/femalecodertocat.png)](https://github.com/ArantxaDR)
 [![Linkedin](./imgs/linkedin.png)](https://www.linkedin.com/in/arantxadelgadoruiz/)
 [![Gmail](./imgs/gmail.png)](mailto:arantxaderuiz@gmail.com)
+</div>
