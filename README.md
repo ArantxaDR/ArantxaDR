@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="./imgs/readme-back.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div>
+<div style="text-align:center"><img src="./imgs/readme-back.png" alt="banner" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div>
 
 # Hi there 👋
 
@@ -22,6 +22,5 @@
 
 ## 📫 How to reach me:
 
-
- - https://www.linkedin.com/in/arantxadelgadoruiz/
- - arantxaderuiz@gmail.com
+- https://www.linkedin.com/in/arantxadelgadoruiz/
+- arantxaderuiz@gmail.com
