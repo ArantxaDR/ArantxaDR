@@ -4,7 +4,7 @@
 
 <p>After years in a job that did not let me grow I have found a new ✨illusion✨ in programming.</p>
 
-<p>My name is Arantxa and I'm currently curently searching for my first job as a front end developer.</p>
+<p>My name is Arantxa and I'm currently searching for my first job as a front end developer.</p>
 
 ![Woman-icon](./imgs/noun_software_engineer.png) 
 
