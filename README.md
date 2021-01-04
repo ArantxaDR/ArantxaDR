@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-<p>After years in a job that did not let me grow I have found a new ✨illusion✨ in programming.</p>
+<p>After years in a job that didn't let me grow I have found a new ✨illusion✨ in programming.</p>
 
 <p>My name is Arantxa and I'm currently searching for my first job as a front end developer.</p>
 
@@ -20,6 +20,7 @@
 ![Trello](https://www.vectorlogo.zone/logos/trello/trello-ar21.svg)
 ![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 ![Bookstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg)
+
 
 ## 📫 How to reach me:
 
