@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="./imgs/readme-back.png" alt="banner" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
+<div style="text-align:center"><img src="./imgs/readme-back.png" alt="banner" style="width:60%; margin-left:auto; margin-right:auto; display: block; width:200px"/></div>
 
 # Hi there 👋
 
