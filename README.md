@@ -6,13 +6,7 @@
 
 <p>My name is Arantxa and I'm currently searching for my first job as a front end developer.</p>
 
-<<<<<<< HEAD
-<p>My name is Arantxa and I'm currently curently searching for my *first job* as a front end developer.</p>
 
-![Woman-icon](./imgs/noun_software_engineer.png)
-=======
-
->>>>>>> 5d1383a5c5e1686a81f1565c5b4ddbba1029cf44
 
 ## 🌱 Tools and languages
 
