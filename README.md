@@ -29,6 +29,17 @@
 <img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
 </div>
 
+## Projects
+
+### <img src="https://media.giphy.com/media/jSVxBEfdSA2GEUEAw4/giphy.gif" width="50" > My projects
+
+<a href="arantxadr.github.io/buscador-series/" target="_blank"> Buscador de series <a>
+
+### Team projects <img src="https://media.giphy.com/media/SVBdcoIvtvpD7oZ6yo/giphy.gif" width="50" >
+
+<a href="https://arantxadr.github.io/Las-chicas-del-coding" target="_blank"> Las chicas del coding <a>
+
+
 ## 📫 How to reach me:
 
 [![Github](./imgs/femalecodertocat.png)](https://github.com/ArantxaDR)
