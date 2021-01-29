@@ -36,7 +36,7 @@
 - <a href="arantxadr.github.io/buscador-series/" target="_blank"> Buscador de series <a>
 - <a href="arantxadr.github.io/rick-morty-search/" target="_blank"> Rick & Morty characters search <a>
 
-### Team projects <img src="https://media.giphy.com/media/SVBdcoIvtvpD7oZ6yo/giphy.gif" width="50" >
+### Team projects <img src="https://media.giphy.com/media/RKHU2NYbecGSzzePmR/giphy.gif" width="50" >
 
 - <a href="https://arantxadr.github.io/Las-chicas-del-coding" target="_blank"> Las chicas del coding <a>
 - <a href="https://arantxadr.github.io/Catrinas-awesome-profile-cards/" target="_blank"> Catrina´s awesome profile cards <a>
