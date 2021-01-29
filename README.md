@@ -31,7 +31,8 @@
 
 ### <img src="https://media.giphy.com/media/jSVxBEfdSA2GEUEAw4/giphy.gif" width="50" > My projects
 
-<a href="arantxadr.github.io/buscador-series/" target="_blank"> Buscador de series <a>
+* <a href="arantxadr.github.io/buscador-series/" target="_blank"> Buscador de series <a>
+* <a href="arantxadr.github.io/rick-morty-search/" target="_blank"> Buscador de series <a>
 
 ### Team projects <img src="https://media.giphy.com/media/SVBdcoIvtvpD7oZ6yo/giphy.gif" width="50" >
 
