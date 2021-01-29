@@ -33,14 +33,8 @@
 
 ### <img src="https://media.giphy.com/media/jSVxBEfdSA2GEUEAw4/giphy.gif" width="50" > My projects
 
-<<<<<<< HEAD
 - <a href="arantxadr.github.io/buscador-series/" target="_blank"> Buscador de series <a>
 - <a href="arantxadr.github.io/rick-morty-search/" target="_blank"> Rick & Morty characters search <a>
-=======
-* <a href="arantxadr.github.io/buscador-series/" target="_blank"> Buscador de series <a>
-* <a href="arantxadr.github.io/rick-morty-search/" target="_blank"> Rick & Morty characters search <a>
-
->>>>>>> ca5547c6a179489aecb6ac9587e4d3340f707e39
 
 ### Team projects <img src="https://media.giphy.com/media/SVBdcoIvtvpD7oZ6yo/giphy.gif" width="50" >
 
