@@ -9,6 +9,7 @@
 ## 🌱 Tools and languages
 
 ### Languages
+
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -19,6 +20,7 @@
 </div>
 
 ### Tools
+
 <div align="left">
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
@@ -31,13 +33,14 @@
 
 ### <img src="https://media.giphy.com/media/jSVxBEfdSA2GEUEAw4/giphy.gif" width="50" > My projects
 
-<a href="arantxadr.github.io/buscador-series/" target="_blank"> Buscador de series <a>
+- <a href="arantxadr.github.io/buscador-series/" target="_blank"> Buscador de series <a>
+- <a href="arantxadr.github.io/rick-morty-search/" target="_blank"> Buscador de series <a>
 
 ### Team projects <img src="https://media.giphy.com/media/SVBdcoIvtvpD7oZ6yo/giphy.gif" width="50" >
 
-* <a href="https://arantxadr.github.io/Las-chicas-del-coding" target="_blank"> Las chicas del coding <a>
-* <a href="https://arantxadr.github.io/Catrinas-awesome-profile-cards/" target="_blank"> Catrina´s awesome profile cards <a>
-* <a href="arantxadr.github.io/not-surrender" target="_blank"> <!SURRENDER> <a>
+- <a href="https://arantxadr.github.io/Las-chicas-del-coding" target="_blank"> Las chicas del coding <a>
+- <a href="https://arantxadr.github.io/Catrinas-awesome-profile-cards/" target="_blank"> Catrina´s awesome profile cards <a>
+- <a href="arantxadr.github.io/not-surrender" target="_blank"> <!SURRENDER> <a>
 
 ## 📫 How to reach me:
 
@@ -45,7 +48,6 @@
 [![Linkedin](./imgs/linkedin.png)](https://www.linkedin.com/in/arantxadelgadoruiz/)
 [![Gmail](./imgs/gmail.png)](mailto:arantxaderuiz@gmail.com)
 
+---
 
-
-****
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ArantxaDR.ArantxaDR)
