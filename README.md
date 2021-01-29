@@ -46,7 +46,7 @@
 
 [![GitHub: ArantxaDR](https://img.shields.io/github/followers/ArantxaDR?label=follow&style=social)](https://github.com/ArantxaDR)
 [![Linkedin: arantxadelgadoruiz](https://img.shields.io/badge/-arantxadelgadoruiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arantxadelgadoruiz//)](https://www.linkedin.com/in/arantxadelgadoruiz/)
-[![Gmail](<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />)](mailto:arantxaderuiz@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:arantxaderuiz@gmail.com)
 
 ---
 
