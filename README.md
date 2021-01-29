@@ -6,8 +6,6 @@
 
 <p>My name is Arantxa and I'm currently searching for my first job as a front end developer.</p>
 
-
-
 ## 🌱 Tools and languages
 
 ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
@@ -20,7 +18,6 @@
 ![Trello](https://www.vectorlogo.zone/logos/trello/trello-ar21.svg)
 ![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 ![Bookstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg)
-
 
 ## 📫 How to reach me:
 
