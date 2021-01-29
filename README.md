@@ -44,7 +44,7 @@
 
 ## 📫 How to reach me:
 
-[![GitHub ArantxaDR](https://img.shields.io/github/followers/ArantxaDR?label=follow&style=social)](https://github.com/ArantxaDR)
+[![GitHub: ArantxaDR](https://img.shields.io/github/followers/ArantxaDR?label=follow&style=social)](https://github.com/ArantxaDR)
 [![Linkedin: arantxadelgadoruiz](https://img.shields.io/badge/-arantxadelgadoruiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arantxadelgadoruiz//)](https://www.linkedin.com/in/arantxadelgadoruiz/)
 [![Gmail](./imgs/gmail.png)](mailto:arantxaderuiz@gmail.com)
 
