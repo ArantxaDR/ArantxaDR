@@ -35,7 +35,9 @@
 
 ### Team projects <img src="https://media.giphy.com/media/SVBdcoIvtvpD7oZ6yo/giphy.gif" width="50" >
 
-<a href="https://arantxadr.github.io/Las-chicas-del-coding" target="_blank"> Las chicas del coding <a>
+* <a href="https://arantxadr.github.io/Las-chicas-del-coding" target="_blank"> Las chicas del coding <a>
+* <a href="https://arantxadr.github.io/Catrinas-awesome-profile-cards/" target="_blank"> Catrina´s awesome profile cards <a>
+* <a href="arantxadr.github.io/not-surrender" target="_blank"> <!SURRENDER> <a>
 
 ## 📫 How to reach me:
 
