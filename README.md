@@ -34,14 +34,14 @@
 
 ### <img src="https://media.giphy.com/media/jSVxBEfdSA2GEUEAw4/giphy.gif" width="50" > My projects
 
-- <a href="arantxadr.github.io/buscador-series/" target="_blank"> Buscador de series <a>
-- <a href="arantxadr.github.io/rick-morty-search/" target="_blank"> Rick & Morty characters search <a>
+- <a href="https://arantxadr.github.io/buscador-series/" target="_blank"> Buscador de series <a>
+- <a href="https://arantxadr.github.io/Rick-Morty-search/" target="_blank"> Rick & Morty characters search <a>
 
 ### Team projects <img src="https://media.giphy.com/media/RKHU2NYbecGSzzePmR/giphy.gif" width="50" >
 
 - <a href="https://arantxadr.github.io/Las-chicas-del-coding" target="_blank"> Las chicas del coding <a>
 - <a href="https://arantxadr.github.io/Catrinas-awesome-profile-cards/" target="_blank"> Catrina´s awesome profile cards <a>
-- <a href="arantxadr.github.io/not-surrender" target="_blank"> <!SURRENDER> <a>
+- <a href="https://arantxadr.github.io/not-surrender" target="_blank"> <!SURRENDER> <a>
 
 ## 📫 How to reach me:
 
