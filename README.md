@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-<p>After years in a job that didn't let me grow I have found a new ✨illusion✨ in programming.</p>
+<p>Teamwork and respect are the daily maxims and my great allies. Discovering the world of front programming I also discovered a new ✨illusion✨ to improve and learn, to develop a completely new professional career to which I have devoted myself.</p>
 
 <p>My name is Arantxa and I'm currently searching for my first job as a front end developer.</p>
 
