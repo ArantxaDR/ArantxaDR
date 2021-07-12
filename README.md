@@ -2,9 +2,11 @@
 
 # Hi there 👋
 
-<p>Teamwork and respect are the daily maxims and my great allies. Discovering the world of front programming I also discovered a new ✨illusion✨ to improve and learn, to develop a completely new professional career to which I have devoted myself.</p>
-
 <p>My name is Arantxa and I'm currently searching for my first job as a front end developer.</p>
+
+<p>Teamwork and respect are the daily maxims and my great allies. Discovering the world of front programming I also discovered a ✨illusion✨ to improve and learn, to develop a completely new professional career to which I have devoted myself.</p>
+
+
 
 ## Tools and languages
 
@@ -54,7 +56,7 @@
 
 ## How to reach me:
 
-[![GitHub: ArantxaDR](https://img.shields.io/github/followers/ArantxaDR?label=follow&style=social)](https://github.com/ArantxaDR) [![Linkedin: arantxadelgadoruiz](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arantxadelgadoruiz/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:arantxaderuiz@gmail.com)
+[![GitHub: ArantxaDR](https://img.shields.io/github/followers/ArantxaDR?label=follow&style=social)](https://github.com/ArantxaDR) [![Linkedin: arantxadelgadoruiz](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arantxadelgadoruiz/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:arantxaderuiz@gmail.com) [![Twitter: Chopper_hat](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Chopper_hat)
 
 ---
 
