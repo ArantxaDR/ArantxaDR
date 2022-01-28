@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-<p>My name is Arantxa and I'm currently searching for my first job as a front end developer.</p>
+<p>My name is Arantxa and I'm a front end developer.</p>
 
 <p>Teamwork and respect are the daily maxims and my great allies. Discovering the world of front programming I also discovered a ✨illusion✨ to improve and learn, to develop a completely new professional career to which I have devoted myself.</p>
 
@@ -35,9 +35,8 @@
 
 ## Currently learning
 <div align="left">
-<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
-<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="C#" src="hhttps://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
 
 ## Projects
