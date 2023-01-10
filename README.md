@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="./imgs/personal-banner.png" alt="banner" style="margin-left:50%; display: block; width:100rem; height: 30rem;"/></div>
+<div style="text-align:center"><img src="./imgs/ArantxaDR-octocat.png" alt="banner" style="margin-left:50%; display: block; width:100rem; height: 30rem;"/></div>
 
 # Hi there 👋
 
