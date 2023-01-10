@@ -1,11 +1,13 @@
 # Hi there 👋
-
-<div style="right">
-<img src="./imgs/ArantxaDR-octocat.png" alt="Arantxa octocat" style=" width:20rem; height: 20rem;"/>
-
+<div>
+<img align="right" src="./imgs/ArantxaDR-octocat.png" alt="Arantxa octocat" style=" width:20rem; height: 20rem;"/>
+ 
+<div align="left" >
+ 
 <p>My name is Arantxa and I'm a front end developer.</p>
 
 <p>Teamwork and respect are the daily maxims and my great allies. Discovering the world of front programming I also discovered a ✨illusion✨ to improve and learn, to develop a completely new professional career to which I have devoted myself.</p>
+</div>
 </div>
 
 
