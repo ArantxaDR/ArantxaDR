@@ -60,7 +60,7 @@
 
 ## How to reach me:
 
-[![GitHub: ArantxaDR](https://img.shields.io/github/followers/ArantxaDR?label=follow&style=social)](https://github.com/ArantxaDR) [![Linkedin: arantxadelgadoruiz](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arantxadelgadoruiz/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:arantxaderuiz@gmail.com) [![Twitter: Chopper_hat](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Chopper_hat)
+[![GitHub: ArantxaDR](https://img.shields.io/github/followers/ArantxaDR?label=follow&style=social)](https://github.com/ArantxaDR) [![Linkedin: arantxadelgadoruiz](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arantxadelgadoruiz/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:arantxaderuiz@gmail.com) [![Twitter: @arantxa_dr](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/arantxa_dr)
 
 ---
 
