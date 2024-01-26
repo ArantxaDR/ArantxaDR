@@ -24,6 +24,7 @@
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
 ## Tools
@@ -62,6 +63,3 @@
 
 [![GitHub: ArantxaDR](https://img.shields.io/github/followers/ArantxaDR?label=follow&style=social)](https://github.com/ArantxaDR) [![Linkedin: arantxadelgadoruiz](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arantxadelgadoruiz/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:arantxaderuiz@gmail.com) [![Twitter: @arantxa_dr](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/arantxa_dr)
 
----
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ArantxaDR.ArantxaDR)
