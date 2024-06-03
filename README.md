@@ -20,6 +20,7 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -40,7 +41,6 @@
 
 ## Currently learning
 <div align="left">
-<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </div>
@@ -49,13 +49,13 @@
 
 ### <img src="https://media.giphy.com/media/jSVxBEfdSA2GEUEAw4/giphy.gif" width="50" > My projects
 
-- <a href="https://drag-race-game-lfr8yjl4k-arantxadr.vercel.app/" target="_blank"> DragRace Game<a>
+- <a href="[https://drag-race-game-lfr8yjl4k-arantxadr.vercel.app/](https://comunidad-github-spain.github.io/)" target="_blank"> Comunidad Github España<a>
 - <a href="https://arantxadr.github.io/Buscador-series/" target="_blank"> Buscador de series <a>
 - <a href="https://arantxadr.github.io/Rick-Morty-search/#/" target="_blank"> Rick & Morty characters search <a>
 
 ### Team projects <img src="https://media.giphy.com/media/RKHU2NYbecGSzzePmR/giphy.gif" width="50" >
 
-- <a href="https://arantxadr.github.io/Las-chicas-del-coding" target="_blank"> Las chicas del coding <a>
+- <a href="https://arantxadr.github.io/Las-chicas-del-coding](https://adoptaunjunior.es/" target="_blank"> Adopta Un Junior <a>
 - <a href="https://arantxadr.github.io/Catrinas-awesome-profile-cards/" target="_blank"> Catrina´s awesome profile cards <a>
 - <a href="https://arantxadr.github.io/not-Surrender/#/" target="_blank"> <!SURRENDER> <a>
 
