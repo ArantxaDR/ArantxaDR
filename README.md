@@ -49,7 +49,7 @@
 
 ### <img src="https://media.giphy.com/media/jSVxBEfdSA2GEUEAw4/giphy.gif" width="50" > My projects
 
-- <a href="https://drag-race-game-lfr8yjl4k-arantxadr.vercel.app/(https://comunidad-github-spain.github.io/)" target="_blank"> Comunidad Github España<a>
+- <a href="https://comunidad-github-spain.github.io/" target="_blank"> Comunidad Github España<a>
 - <a href="https://arantxadr.github.io/Buscador-series/" target="_blank"> Buscador de series <a>
 - <a href="https://arantxadr.github.io/Rick-Morty-search/#/" target="_blank"> Rick & Morty characters search <a>
 
