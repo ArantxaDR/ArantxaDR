@@ -1,6 +1,6 @@
 # Hi there 👋
 <div>
-<img align="right" src="./imgs/ArantxaDR-octocat.png" alt="Arantxa octocat" style=" width:20rem; height: 20rem;"/>
+<img align="right" src="./imgs/ArantxaDR-octocat.png" alt="Arantxa octocat" style=" width:15rem; height: 15rem;"/>
  
 <div align="left" >
  
