@@ -6,7 +6,7 @@
  
 <p>My name is Arantxa and I'm a front end developer.</p>
 
-<p>Teamwork and respect are the daily maxims and my great allies. Discovering the world of front programming I also discovered a ✨illusion✨ to improve and learn, to develop a completely new professional career to which I have devoted myself.</p>
+<p>I am a passionate front-end developer who thrives on creating stunning websites. I love collaborating with teams and embrace challenges as opportunities for growth and improvement in my coding journey.</p>
 </div>
 </div>
 
