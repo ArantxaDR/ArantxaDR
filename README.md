@@ -46,18 +46,9 @@
 </div>
 
 ## Projects
-
-### <img src="https://media.giphy.com/media/jSVxBEfdSA2GEUEAw4/giphy.gif" width="50" > My projects
-
-- <a href="https://comunidad-github-spain.github.io/" target="_blank"> Comunidad Github España<a>
-- <a href="https://arantxadr.github.io/Buscador-series/" target="_blank"> Buscador de series <a>
-- <a href="https://arantxadr.github.io/Rick-Morty-search/#/" target="_blank"> Rick & Morty characters search <a>
-
-### Team projects <img src="https://media.giphy.com/media/RKHU2NYbecGSzzePmR/giphy.gif" width="50" >
-
 - <a href="https://adoptaunjunior.es/" target="_blank"> Adopta Un Junior <a>
 - <a href="https://www.therevolutiontech.es/" target="_blank"> The Revolution Tech <a>
-- <a href="https://arantxadr.github.io/not-Surrender/#/" target="_blank"> <!SURRENDER> <a>
+- <a href="https://www.knitsdigital.es/" target="_blank"> KnitsDigital <a>
 
 ## How to reach me:
 
