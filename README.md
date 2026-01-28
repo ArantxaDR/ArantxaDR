@@ -56,7 +56,7 @@
 ### Team projects <img src="https://media.giphy.com/media/RKHU2NYbecGSzzePmR/giphy.gif" width="50" >
 
 - <a href="https://adoptaunjunior.es/" target="_blank"> Adopta Un Junior <a>
-- <a href="https://arantxadr.github.io/Catrinas-awesome-profile-cards/" target="_blank"> Catrina´s awesome profile cards <a>
+- <a href="https://www.therevolutiontech.es/" target="_blank"> The Revolution Tech <a>
 - <a href="https://arantxadr.github.io/not-Surrender/#/" target="_blank"> <!SURRENDER> <a>
 
 ## How to reach me:
