@@ -49,6 +49,7 @@
 - <a href="https://adoptaunjunior.es/" target="_blank"> Adopta Un Junior <a>
 - <a href="https://www.therevolutiontech.es/" target="_blank"> The Revolution Tech <a>
 - <a href="https://www.knitsdigital.es/" target="_blank"> KnitsDigital <a>
+- <a href="https://ventura-coffee.vercel.app/"> Ventura Coffee <a>
 
 ## How to reach me:
 
